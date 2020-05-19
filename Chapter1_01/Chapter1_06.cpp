@@ -42,7 +42,7 @@ void main()
 	cin >> a >> b;
 	cout << " 연산자를 입력하세요(+,-,*,/,%)" << endl;
 	cin >> op;
-
+	//ㄹㅇㄴㄹㄴ
 	switch (op)
 	{
 	case '+' :
